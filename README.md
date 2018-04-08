@@ -44,6 +44,8 @@
     * *presidency*
 3. *С CONSIDER и ASSUME:*
     * *position*
+    * *role*
+    * *power*
 
 # Бонусное задание
 ## *Откройте Trends (корпус BNC) и выберите одно из слов. Сравните, как менялась частотность этого слова в Google Ngrams.*
